@@ -1,0 +1,12 @@
+
+actual test:
+https://pnkalrt.page.gd/TRACKER_SYSTEM/api/random_test_coordinate.php?key=TAN&source=ESP32&latitude=11.563522&longitude=124.395743
+
+https://pnkalrt.page.gd/TRACKER_SYSTEM/api/random_test_coordinate.php?key=TAN&source=ESP32&latitude=11.563588&longitude=124.395637
+
+https://pnkalrt.page.gd/TRACKER_SYSTEM/api/random_test_coordinate.php?key=TAN&source=ESP32&latitude=11.563704&longitude=124.395795
+
+https://pnkalrt.page.gd/TRACKER_SYSTEM/api/random_test_coordinate.php?key=TAN&source=ESP32&latitude=11.563809&longitude=124.395994
+
+https://pnkalrt.page.gd/TRACKER_SYSTEM/api/random_test_coordinate.php?key=TAN&source=ESP32&latitude=11.563922&longitude=124.396235
+

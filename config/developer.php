@@ -1,0 +1,3 @@
+<?php
+
+const DEVELOPER_DASHBOARD_KEY = 'TAN';
